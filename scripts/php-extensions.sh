@@ -35,6 +35,7 @@ php8-simplexml
 php8-sockets
 php8-sqlite3
 php8-tokenizer
+php8-pecl-xdebug
 php8-xml
 php8-xmlreader
 php8-xmlwriter
